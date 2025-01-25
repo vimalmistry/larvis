@@ -5,8 +5,6 @@
 
 suggest me features. :)
 
-email me : vimalmistry10@gmail.com
-
 # todo
 - [done] Install 5.5
 - [done] Auth scaffolding
